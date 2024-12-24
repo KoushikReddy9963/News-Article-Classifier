@@ -18,5 +18,9 @@ This project involves classifying BBC News headlines into their respective categ
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/bbc-news-classification.git
-   cd bbc-news-classification
+   https://github.com/KoushikReddy9963/News-Article-Classifier.git
+2. enter the directory:
+   ```bash
+   cd News-Article-Classifier
+
+
