@@ -1,7 +1,7 @@
 # News Article Classifier  
 
 ## Overview  
-This project involves classifying BBC News headlines into their respective categories (Tech, Entertainment, Sports, Politics, and Business). 
+This project involves classifying BBC News headlines into their respective categories [ Tech, Entertainment, Sports, Politics, and Business ]. 
 The classification is achieved through custom implementations of Naive Bayes and Support Vector Machine (SVM) classifiers.  
 
 ## Features  
